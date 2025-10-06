@@ -1,17 +1,17 @@
 <h1 align="center">Hai 👋, saya Jericho Mahesa Putra</h1>
 <h3 align="center">Seorang pelajar dari Indonesia</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwxNHUyM3FwdHcxODIxZTc0aWM1cDlubzg5ejJ3YjVnOWZsMzY2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378wBmgennDqhNQI/giphy.gif" alt="Gipsy Danger">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerichomahesaputra&label=Profile%20views&color=0e75b6&style=flat" alt="jerichomahesaputra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichomahesaputra" alt="jerichomahesaputra" /></a> </p>
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p5ajB1cmt1Zm1mYXBlOHQ2cGVkMDUwOTFvc3NxY3l5emFmMWV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIYzr864MJ9WU/giphy.gif" alt="Eva GIF"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21xamFibmJqeGloMmdiZnRlNHdmNjJyY2F1cGYyNWZudXRvZW1pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tz6S94VbrauGs/giphy.gif" alt="EVA GIF">
 - 🌱 Saat ini saya sedang belajar **Javascript**
 
 - 📫 Cara menghubungi saya **jerichoputra@gmail.com**
 
 - ⚡ Fakta menarik **hobi saya adalah tidak melakukan apa pun**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerichomahesaputra&label=Profile%20views&color=0e75b6&style=flat" alt="jerichomahesaputra" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerichomahesaputra" alt="jerichomahesaputra" /></a> </p>
 
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
