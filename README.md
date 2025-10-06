@@ -1,7 +1,6 @@
 <h1 align="center">Hai 👋, saya Jericho Mahesa Putra</h1>
 <h3 align="center">Seorang pelajar dari Indonesia</h3>
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p5ajB1cmt1Zm1mYXBlOHQ2cGVkMDUwOTFvc3NxY3l5emFmMWV2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIYzr864MJ9WU/giphy.gif" alt="Eva GIF"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21xamFibmJqeGloMmdiZnRlNHdmNjJyY2F1cGYyNWZudXRvZW1pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tz6S94VbrauGs/giphy.gif" alt="EVA GIF">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21xamFibmJqeGloMmdiZnRlNHdmNjJyY2F1cGYyNWZudXRvZW1pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tz6S94VbrauGs/giphy.gif" alt="EVA GIF">
 - 🌱 Saat ini saya sedang belajar **Javascript**
 
 - 📫 Cara menghubungi saya **jerichoputra@gmail.com**
